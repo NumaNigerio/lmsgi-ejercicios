@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+html {
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: hsl(198, 50%, 50%);
+}
+
+h3 {
+    background-color: hsl(198, 50%, 65%);
+}
+
+pre {
+    background-color: white;
+}

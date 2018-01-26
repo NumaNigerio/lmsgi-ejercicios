@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* By Barto */
+
+body {
+    background-color: hsl(35, 100%, 90%);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: hsl(35, 100%, 30%);
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 2rem;
+}
+
+p.pregunta {
+    color: hsl(35, 100%, 50%);
+}
+
+details {
+    font-size: 4rem;
+}
+
+span {
+    background-color: hsl(325, 100%, 90%);
+}
+
+span.par {
+    background-color: white;
+}

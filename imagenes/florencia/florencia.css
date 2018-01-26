@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+/* By Barto */
+
+body {
+    background-color: hsl(69, 10%, 75%);
+    font-family: sans-serif;
+    font-size: 150%;
+    text-align: justify;
+}
+
+h1 {
+    color: hsl(240, 65%, 25%);
+}
+
+h2 {
+    clear: both;
+    background-color: hsl(68, 29%, 30%);
+    color: white;
+}
+
+p.centrado {
+    text-align: center;
+}
+
+strong {
+    font-style: oblique;
+}
+
+img.izquierda {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+img.derecha {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+address {
+    clear: both;
+}
